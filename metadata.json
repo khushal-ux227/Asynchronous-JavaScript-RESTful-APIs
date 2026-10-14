@@ -1,0 +1,6 @@
+{
+  "name": "Nimbus Pulse - Live Weather & Atmospheric REST API Dashboard",
+  "description": "Real-time global weather dashboard powered by asynchronous JavaScript and Open-Meteo RESTful API with live metrics, multi-day forecasts, and deep JSON inspector.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
